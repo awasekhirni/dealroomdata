@@ -1,0 +1,108 @@
+[{
+  "InvestorInfo": {
+    "name": "Therese Croke",
+    "Dealroom_url": "http://4shared.com/et/ultrices/posuere/cubilia/curae/duis/faucibus.png?vestibulum=sapien&ante=varius&ipsum=ut&primis=blandit&in=non&faucibus=interdum&orci=in&luctus=ante&et=vestibulum&ultrices=ante&posuere=ipsum",
+    "Website": "https://icq.com/imperdiet/et/commodo/vulputate/justo/in/blandit.jpg?in=proin&lectus=eu&pellentesque=mi&at=nulla&nulla=ac&suspendisse=enim&potenti=in&cras=tempor&in=turpis&purus=nec&eu=euismod&magna=scelerisque&vulputate=quam&luctus=turpis&cum=adipiscing&sociis=lorem&natoque=vitae&penatibus=mattis&et=nibh&magnis=ligula&dis=nec&parturient=sem&montes=duis&nascetur=aliquam&ridiculus=convallis&mus=nunc&vivamus=proin&vestibulum=at&sagittis=turpis&sapien=a&cum=pede&sociis=posuere&natoque=nonummy&penatibus=integer&et=non&magnis=velit&dis=donec&parturient=diam&montes=neque&nascetur=vestibulum&ridiculus=eget&mus=vulputate&etiam=ut&vel=ultrices&augue=vel&vestibulum=augue&rutrum=vestibulum&rutrum=ante&neque=ipsum&aenean=primis&auctor=in&gravida=faucibus&sem=orci&praesent=luctus&id=et&massa=ultrices&id=posuere&nisl=cubilia&venenatis=curae&lacinia=donec&aenean=pharetra&sit=magna&amet=vestibulum&justo=aliquet&morbi=ultrices&ut=erat&odio=tortor&cras=sollicitudin&mi=mi&pede=sit",
+    "Type": "",
+    "Tagline": "revolutionize revolutionary web-readiness",
+    "Address": "13670 Londonderry Pass",
+    "Logo": "http://dummyimage.com/229x103.bmp/cc0000/ffffff",
+    "location": {
+      "HQ_Region": "California",
+      "HQ_Country": "United States",
+      "HQ_City": "Santa Monica",
+      "Latitude": "34.01",
+      "Longitude": "-118.4717",
+      "WorldLocations": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    "Team": {
+      "DealRoomTeam": [
+        {
+        },
+        {
+        }
+      ],
+      "EditorialTeam": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    "Deals": {
+      "DealStructure": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec",
+      "DealSize": "",
+      "DealVolume6month": "",
+      "DealVolume12month": "",
+      "DealVolumeAlltime": "",
+      "Industries": "",
+      "InvestmentStages": "",
+      "Fundtypes": "",
+      "InvestmentRounds": "",
+      "IndustryExperience": "",
+      "CountryExperience": "",
+      "BusinessModelExperience": "",
+      "TargetLocations": "",
+      "SectorofFocus": "",
+      "RevenueModel": "",
+      "LpInvestmentsNames": "",
+      "LpInvestorsNames": ""
+    },
+    "Investments": {
+      "AllInvestments": "",
+      "Acquisitions": "",
+      "AcquisitionsinaYear": "",
+      "AcquisitionsAlltime": ""
+    },
+    "FoundingRounds": {
+      "AverageRoundSize": "",
+      "LastRoundSize": "",
+      "RoundsNumberinaYear": ""
+    },
+    "Exits": {
+      "ExitsName": "",
+      "ExitsIDs": "",
+      "ExitsAmount": "",
+      "Fundingperexit": "",
+      "ExitsTotal": "",
+      "ExitsScore": "",
+      "ExitsNumber": "",
+      "NoofEuExits>100M": "",
+      "NoofEuExits>500M": "",
+      "NoofEuExits>800M": "",
+      "NoofInvestmentswithValuation>100M": "",
+      "NoofInvestmentswithValuation>500M": "",
+      "NoofInvestmentswithValuation>800M": ""
+    },
+    "Portfolio": {
+      "PortfolioIndustries":"",
+      "CurrentFundSize": "",
+      "PortfolioSize": "",
+      "Portfolio%": "",
+      "TopRankedInvestments": "",
+      "TopRankedInvestments%": ""
+    },
+    "Analytics": {
+      "CapitalEfficiency%": "",
+      "ProminenceRank": "",
+      "ProminenceRank%": ""
+    },
+    "SocialMedia": {
+      "Angellist": "",
+      "Facebook": "",
+      "Twitter": "",
+      "Linkedin": "",
+      "Crunchbase": "",
+      "publiclists": ""
+    },
+    "Other": {
+      "InvestorYearlyFundingEurope": "",
+      "RoundsCountEU12months": ""
+    }
+  }
+}]
